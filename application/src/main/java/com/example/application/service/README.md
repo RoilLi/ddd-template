@@ -1,0 +1,1 @@
+Like Facade to invoke domain object
